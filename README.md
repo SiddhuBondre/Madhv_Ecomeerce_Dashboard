@@ -16,3 +16,13 @@ The Madhva E-Commerce Dashboard is a data analytics project designed to analyze 
 ✅ Compare regional and state-wise performance.
 
 ✅ Support marketing & inventory planning.
+
+# 🛠️ Tech Stack
+
+Programming & Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+
+Data Visualization Tools: Power BI / Tableau / Streamlit / Dash
+
+Database: SQL, Excel, or CSV files
+
+Deployment (Optional): Streamlit Cloud / Flask
