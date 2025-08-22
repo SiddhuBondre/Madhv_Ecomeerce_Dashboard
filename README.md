@@ -52,3 +52,17 @@ Deployment (Optional): Streamlit Cloud / Flask
 📌 Seasonal peaks observed during festive months & sales events.
 
 📌 Repeat customers contribute 40%+ of total sales.
+
+# 📅 Future Enhancements
+
+🔮 Add predictive models to forecast sales & demand.
+
+📦 Integrate inventory tracking to optimize stock levels.
+
+💳 Add payment mode analysis (COD, UPI, Cards).
+
+📱 Develop a mobile-friendly dashboard app.
+
+# ✅ Conclusion
+
+The Madhva E-Commerce Dashboard serves as a powerful tool for tracking sales, customer trends, and revenue growth. It provides business leaders with real-time insights that support smarter decisions in marketing, product management, and customer engagement.
