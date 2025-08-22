@@ -30,22 +30,42 @@ Deployment (Optional): Streamlit Cloud / Flask
 # 📂 Project Structure
 
 Madhva-Ecommerce-Dashboard/
+
 │── data/                
 │    ├── raw_data.csv          # Original sales dataset
 │    ├── cleaned_data.csv      # Processed dataset
 │
+
 │── notebooks/                
 │    ├── data_cleaning.ipynb
 │    ├── exploratory_analysis.ipynb
 │    ├── dashboard_charts.ipynb
 │
+
 │── dashboard/                
 │    ├── madhva_dashboard.pbix   # Power BI file
 │    ├── madhva_dashboard.twbx   # Tableau file
 │    ├── app.py                  # Streamlit/Dash web app
 │
+
 │── reports/                  
 │    ├── monthly_report.pdf
 │    ├── yearly_summary.xlsx
 │
 │── README.md                
+
+# 📊 Dashboard Features
+
+🛒 Order Analysis → Total orders, returns, cancellations.
+
+💰 Revenue Insights → Revenue by category, region, and time.
+
+📦 Product Performance → Best sellers, underperforming products.
+
+👥 Customer Analysis → New vs. repeat customers, demographics.
+
+🌍 Regional Insights → Sales by state/city/region.
+
+📅 Time Trends → Daily, monthly, quarterly, and yearly comparisons.
+
+🔍 Interactive Filters → Drill-down by product category, customer type, region, etc.
