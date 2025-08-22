@@ -32,8 +32,13 @@ Deployment (Optional): Streamlit Cloud / Flask
 Madhva-Ecommerce-Dashboard/
 
 │── data/                
-│    ├── raw_data.csv          # Original sales dataset
-│    ├── cleaned_data.csv      # Processed dataset
+│    ├── raw_data.csv  
+
+# Original sales dataset
+
+│    ├── cleaned_data.csv 
+
+# Processed dataset
 │
 
 │── notebooks/                
