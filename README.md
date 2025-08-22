@@ -25,39 +25,7 @@ Data Visualization Tools: Power BI / Tableau / Streamlit / Dash
 
 Database: SQL, Excel, or CSV files
 
-Deployment (Optional): Streamlit Cloud / Flask
-
-# 📂 Project Structure
-
-Madhva-Ecommerce-Dashboard/
-
-│── data/                
-│    ├── raw_data.csv  
-
-# Original sales dataset
-
-│    ├── cleaned_data.csv 
-
-# Processed dataset
-│
-
-│── notebooks/                
-│    ├── data_cleaning.ipynb
-│    ├── exploratory_analysis.ipynb
-│    ├── dashboard_charts.ipynb
-│
-
-│── dashboard/                
-│    ├── madhva_dashboard.pbix   # Power BI file
-│    ├── madhva_dashboard.twbx   # Tableau file
-│    ├── app.py                  # Streamlit/Dash web app
-│
-
-│── reports/                  
-│    ├── monthly_report.pdf
-│    ├── yearly_summary.xlsx
-│
-│── README.md                
+Deployment (Optional): Streamlit Cloud / Flask             
 
 # 📊 Dashboard Features
 
@@ -74,3 +42,13 @@ Madhva-Ecommerce-Dashboard/
 📅 Time Trends → Daily, monthly, quarterly, and yearly comparisons.
 
 🔍 Interactive Filters → Drill-down by product category, customer type, region, etc.
+
+# 📊 Example Insights
+
+📌 Electronics and Fashion are the top-selling categories.
+
+📌 Majority of revenue comes from Tier-1 cities.
+
+📌 Seasonal peaks observed during festive months & sales events.
+
+📌 Repeat customers contribute 40%+ of total sales.
